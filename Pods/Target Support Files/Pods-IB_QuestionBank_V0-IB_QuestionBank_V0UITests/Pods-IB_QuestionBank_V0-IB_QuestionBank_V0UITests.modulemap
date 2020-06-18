@@ -1,0 +1,6 @@
+framework module Pods_IB_QuestionBank_V0_IB_QuestionBank_V0UITests {
+  umbrella header "Pods-IB_QuestionBank_V0-IB_QuestionBank_V0UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
